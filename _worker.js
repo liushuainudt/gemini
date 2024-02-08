@@ -1,5 +1,5 @@
 
-const TELEGRAPH_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?';
+const TELEGRAPH_URL = 'generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
 
 export default {
